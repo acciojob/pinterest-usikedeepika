@@ -21,6 +21,10 @@
   color: #333;                  /* Dark gray color */
   margin: 0;                    /* Removes default margin */
 }
+img {
+  object-fit: cover;
+}
+
 
 .content p {
   font-size: 1rem;              /* Regular paragraph text */
